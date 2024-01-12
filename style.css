@@ -1,0 +1,22 @@
+.img-size{
+    /* 	padding: 0;
+        margin: 0; */
+        height: 450px;
+        width: 700px;
+        background-size: cover;
+        overflow: hidden;
+    }
+    .modal-content {
+      width: 700px;
+      border:none;
+    }
+    .modal-body {
+       padding: 0;
+    }
+    
+    .modal-content {
+        -webkit-box-shadow: none;
+        box-shadow: none;
+        background: transparent;
+        border: none;
+      }
